@@ -736,15 +736,6 @@ video {
 	font-size: 24px;
 }
 
-#feat {
-	padding: 100px 0 200px 0;
-	background-image: url(../static/css/img/IMG_2417.jpg);
-	background-repeat: no-repeat;
-	background-position: center 200px;
-	background-size: cover;
-	background-position: 0px 20px; 
-}
-
 .box_feat {
 	text-align: center;
 	margin-bottom: 20px;
